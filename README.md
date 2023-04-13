@@ -1,4 +1,5 @@
 # Chat-GPT Clone
+![Captura de pantalla 2023-04-13 191850](https://user-images.githubusercontent.com/32551746/231836352-45970ce4-6133-401f-a2b3-f3c79c47ac53.png)
 
 
 
